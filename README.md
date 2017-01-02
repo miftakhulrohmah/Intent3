@@ -1,6 +1,6 @@
 # Intent 3 <br>
 
- #Identitas <br>
+# Identitas
 Nama    : Miftakhul Rohmah<br>
 Kelas   : XIRPL1<br>
 No      : 19<br>
